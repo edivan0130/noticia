@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pior nota do curso</title>
+</head>
+<body>
+    <p><b>CEDRO NEWS - Educação e cultura</b></p>
+    <h1>Jovem tira a pior nota do curso de sistemas</h1>
+    <h3>Estudante fica sem chão após saber que precisa de dois 10 de nota e pensa em desistir do curso</h3>
+    <p>Por Jose Edivan - 20 de outubro 2026, às 9h</p>
+    <p>Um aluno do primeiro semestre de Sistemas de Informação tirou nota baixa na prova de TWEB e 
+        disse que está pensando em desistir do curso. Segundo ele, o conteúdo de HTML, CSS e JavaScript
+         ficou difícil depois das primeiras aulas.</p>
+    <p>Um aluno do primeiro semestre de Sistemas de Informação tirou nota baixa na prova de TWEB e disse que está pensando em desistir do curso.
+         Segundo ele, o conteúdo de HTML, CSS e JavaScript ficou difícil depois das primeiras aulas.</p>   
+    <p>"Fiquei muito desanimado quando vi a nota, mas sei que ainda dá tempo de melhorar."</p>    
+    <p>- Edivan Bezerra, aluno do curso</p>   
+
+</body>
+</html>
